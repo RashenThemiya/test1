@@ -283,13 +283,14 @@ body{
     margin-top: 600px;
     background-color: blue;
     border-radius: 24px;
+    justify-content: center;
 }
 .container{
     visibility: hidden;
     position: relative;
     z-index: 100;
     top:-750px;
-      LEFT: 75px;
+    LEFT: 75px;
     
 }
 .v1{
